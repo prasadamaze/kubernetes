@@ -6,4 +6,9 @@ Stackdriver Example   https://github.com/GoogleCloudPlatform/gke-logging-sinks-d
 
 https://github.com/GoogleCloudPlatform/anthos-workshop
 
+
+https://github.com/cgrant/config-repo
+
+https://github.com/GoogleCloudPlatform/anthos-workshop.git
+
 ./bootstrap-workshop.sh
